@@ -44,11 +44,11 @@ In order to determine the weaknesses of the model, error was compared across dif
 ![Where Model Struggles](figures/fig%203%20where%20model%20struggles.png)
 
  the Gradient Boosting model proved a good fit, with a clearly reliable fit between the variables found for trustworthy predictions without the use of an extremely complex model.
-![Actual vs Predicted](figures/figure%204%20actual_vs_predicted_scatter.png)
+![Actual vs Predicted](figures/fig%204%20actual_vs_predicted_scatter.png)
 
 ## Key Findings
 
-![Battery Power Demand](figures/figure%207%20battery_power_over_time.png)
+![Battery Power Demand](figures/fig%207%20battery_power_over_time.png)
 - Gradient boost achieved the best predictive performance.
 - Non-linear ensemble models far outperformed the linear regression approaches.
 - Model performance was not always consistent as vehicle operating regimes varied.
