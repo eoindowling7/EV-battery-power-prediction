@@ -41,7 +41,7 @@ Further analysis was conducted to investigate how the Gradient Boosting model pe
 ![Residual Distribution](figures/fig%205%20residual_distribution.png)
 
 In order to determine the weaknesses of the model, error was compared across different operating regimes to display conditions where prediction performance deteriorated. As seen in the below figure, the MAE was highest when the vehicles operated at the higher end of their capabilities.
-![Where Model Struggles](figures/fig%203%20where%20model%20struggles.png)
+![Where Model Struggles](figures/fig%203%20where%20model%20strugles.png)
 
  the Gradient Boosting model proved a good fit, with a clearly reliable fit between the variables found for trustworthy predictions without the use of an extremely complex model.
 ![Actual vs Predicted](figures/fig%204%20actual_vs_predicted_scatter.png)
